@@ -11,8 +11,8 @@ public class Main {
         itenerary.tambahKota("Vienna");
         itenerary.tambahKota("Prague");
         itenerary.tambahKota("Hamburg");
-        itenerary.tambahKota("Warsaw");
         itenerary.tambahKota("Budapest");
+        itenerary.tambahKota("Warsaw");
         itenerary.tambahEdge("Paris","Brussel");
         itenerary.tambahEdge("Paris","Zurich");
         itenerary.tambahEdge("Brussel","Amsterdam");
