@@ -3,3 +3,4 @@ NIM: 6070624000046
 Nama: Masefal Anjesa Loja
 Kelas: D3IF-48-02
 Tipe Soal: B
+Asprak Pengawas: Farhan
